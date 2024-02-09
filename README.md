@@ -27,6 +27,14 @@ Animatify est une bibliothèque CSS légère et modulaire pour créer des animat
 - `.animate--duration-01s` à `.animate--duration-09s` 
 et `.animate--duration-1s` à `.animate--duration-5s`: Définit la durée de l'animation.
 
+## Animations
+
+- `.rotate`: Fait tourner un élément de 0 à 360 degrés.
+- `.bounce`: Fait rebondir un élément de 0 à -10px en hauteur.
+- `.blink`: Fait clignoter un élément en passant de l'opacité 1 à 0.
+- `.slideRight`: Fait glisser un élément de gauche à droite.
+- `.slideLeft`: Fait glisser un élément de droite à gauche.
+
 ## Utilisation
 
 Pour utiliser une animation, ajoutez simplement la classe `.animate` à votre élément HTML, ainsi que toute autre classe pour personnaliser l'animation.
